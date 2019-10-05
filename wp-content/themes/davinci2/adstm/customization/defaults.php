@@ -41,11 +41,11 @@ return [
     'tp_tab_active_color' => '#3c5460',
 
 	'tp_img_left_cart' => IMG_DIR . 'godaddy.png',
-	'tp_logo_img'      => IMG_DIR . 'logo.png',
+	'tp_logo_img'      => IMG_DIR . 'logo.jpg',
 
 	'tp_favicon'      => TEMPLATE_URL . '/favicon.ico',
 	's_mail'          => 'support@' . parse_url(ADSTM_HOME, PHP_URL_HOST),
-	'tp_header_phone' => '123 456 78 90',
+	'tp_header_phone' => '+923142587491',
 	'tp_icon_phone'   => 'fa-phone',
 
 	'tp_buttons_colors' => '#ff9749',
