@@ -105,7 +105,7 @@ return [
 
 	'slider_home' => [
 		[
-			'img'              => IMG_DIR . 'mona.jpg',
+			'img'              => IMG_DIR . 'banner.jpg',
             'img_adap'         => '',
 			'head'             => __( 'What is Lorem Ipsum?', 'dav2' ),
 			'head_color'       => '#fff',
@@ -117,7 +117,7 @@ return [
 			'background'       => 'rgba(0, 0, 0, 0.6)',
 		],
 		[
-			'img'              => IMG_DIR . 'mona.jpg',
+			'img'              => IMG_DIR . 'banner.jpg',
             'img_adap'         => '',
 			'head'             => __( 'What is Lorem Ipsum?', 'dav2' ),
 			'head_color'       => '#fff',
@@ -129,7 +129,7 @@ return [
 			'background'       => 'rgba(0, 0, 0, 0.6)',
 		],
 		[
-			'img'              => IMG_DIR . 'mona.jpg',
+			'img'              => IMG_DIR . 'banner.jpg',
             'img_adap'         => '',
 			'head'             => __( 'What is Lorem Ipsum?', 'dav2' ),
 			'head_color'       => '#fff',
@@ -273,7 +273,7 @@ return [
 	'tp_home_seo_description' => '',
 	'tp_home_seo_keywords'    => '',
 
-	'tp_seo_products_title'       => __( 'All products', 'dav2' ),
+	'tp_seo_products_title'       => __( 'All products', 'Trendsway' ),
 	'tp_seo_products_description' => __( 'All products – choose the ones you like and add them to your shopping cart', 'dav2' ),
 	'tp_seo_products_keywords'    => '',
 
