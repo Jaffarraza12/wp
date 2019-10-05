@@ -1,0 +1,10 @@
+#tab-tax .nav-link{
+    text-decoration: none;
+}
+
+.sortable-item{
+    background-color: #fff;
+}
+.sortable-item .js-sort{
+    cursor: move;
+}

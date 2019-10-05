@@ -1,0 +1,37 @@
+<?php
+    
+    return [
+        
+        "Kediri"      => __( "Kediri", "ads" ),
+        "Mojokerto"   => __( "Mojokerto", "ads" ),
+        "Asmat"       => __( "Asmat", "ads" ),
+        "Barumo"      => __( "Barumo", "ads" ),
+        "Biak"        => __( "Biak", "ads" ),
+        "Botawa"      => __( "Botawa", "ads" ),
+        "Elelim"      => __( "Elelim", "ads" ),
+        "Enarotali"   => __( "Enarotali", "ads" ),
+        "Iilaga"      => __( "Iilaga", "ads" ),
+        "Jayapura"    => __( "Jayapura", "ads" ),
+        "Karubaga"    => __( "Karubaga", "ads" ),
+        "Kenyam"      => __( "Kenyam", "ads" ),
+        "Kepi"        => __( "Kepi", "ads" ),
+        "Kigamani"    => __( "Kigamani", "ads" ),
+        "Kobakma"     => __( "Kobakma", "ads" ),
+        "Merauke"     => __( "Merauke", "ads" ),
+        "Mulia"       => __( "Mulia", "ads" ),
+        "Nabire"      => __( "Nabire", "ads" ),
+        "Oksibili"    => __( "Oksibili", "ads" ),
+        "Sarmi"       => __( "Sarmi", "ads" ),
+        "Sentani"     => __( "Sentani", "ads" ),
+        "Serui"       => __( "Serui", "ads" ),
+        "Sorendiweri" => __( "Sorendiweri", "ads" ),
+        "Sumohai"     => __( "Sumohai", "ads" ),
+        "Tanah Merah" => __( "Tanah Merah", "ads" ),
+        "Timika"      => __( "Timika", "ads" ),
+        "Tiom"        => __( "Tiom", "ads" ),
+        "Waghete"     => __( "Waghete", "ads" ),
+        "Wamena"      => __( "Wamena", "ads" ),
+        "Waris"       => __( "Waris", "ads" ),
+        "Yokatapa"    => __( "Yokatapa", "ads" ),
+    
+    ];

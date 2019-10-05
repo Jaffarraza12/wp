@@ -1,0 +1,36 @@
+<?php
+    
+    return [
+        
+        "Piatykhatskyi"      => __( "Piatykhatskyi", "ads" ),
+        "Marinskyi"          => __( "Marinskyi", "ads" ),
+        "Kupianskyi"         => __( "Kupianskyi", "ads" ),
+        "Khmelnytskyi"       => __( "Khmelnytskyi", "ads" ),
+        "Bobrynetskyi"       => __( "Bobrynetskyi", "ads" ),
+        "Dobrovelychkivskyi" => __( "Dobrovelychkivskyi", "ads" ),
+        "Dolynskyi"          => __( "Dolynskyi", "ads" ),
+        "Haivoronskyi"       => __( "Haivoronskyi", "ads" ),
+        "Holovanivskyi"      => __( "Holovanivskyi", "ads" ),
+        "Kirovohrad"         => __( "Kirovohrad", "ads" ),
+        "Kirovohradskyi"     => __( "Kirovohradskyi", "ads" ),
+        "Kompaniivskyi"      => __( "Kompaniivskyi", "ads" ),
+        "Malovyskivskyi"     => __( "Malovyskivskyi", "ads" ),
+        "Novhorodkivskyi"    => __( "Novhorodkivskyi", "ads" ),
+        "Novoarkhanhelskyi"  => __( "Novoarkhanhelskyi", "ads" ),
+        "Novomyrhorodskyi"   => __( "Novomyrhorodskyi", "ads" ),
+        "Novoukrainskyi"     => __( "Novoukrainskyi", "ads" ),
+        "Oleksandriia"       => __( "Oleksandriia", "ads" ),
+        "Oleksandriiskyi"    => __( "Oleksandriiskyi", "ads" ),
+        "Oleksandrivskyi"    => __( "Oleksandrivskyi", "ads" ),
+        "Onufriivskyi"       => __( "Onufriivskyi", "ads" ),
+        "Petrivskyi"         => __( "Petrivskyi", "ads" ),
+        "Svitlovodsk"        => __( "Svitlovodsk", "ads" ),
+        "Svitlovodskyi"      => __( "Svitlovodskyi", "ads" ),
+        "Ulianovskyi"        => __( "Ulianovskyi", "ads" ),
+        "Ustynivskyi"        => __( "Ustynivskyi", "ads" ),
+        "Vilshanskyi"        => __( "Vilshanskyi", "ads" ),
+        "Znamianka"          => __( "Znamianka", "ads" ),
+        "Znamianskyi"        => __( "Znamianskyi", "ads" ),
+        "Other"              => __( "Other", "ads" ),
+    
+    ];

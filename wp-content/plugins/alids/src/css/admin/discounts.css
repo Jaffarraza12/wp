@@ -1,0 +1,33 @@
+.discount-edit > div:first-child{margin-top: 20px}
+
+.product-item .js-title-product{font-size: 14px}
+.product-item .salePrice{font-size: 13px; font-weight: 500;}
+.inputer.col- .bootstrap-select{width: auto !important;}
+
+#ads-search-results.over{position: relative}
+#ads-search-results.over:before{
+    content: '';
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    z-index: 1;
+}
+
+.table-item.edit {
+    background-color: #f5f5f5;
+}
+
+.head-product-added{
+    margin-bottom: 20px;
+    border-bottom: 1px solid #bbb;
+    padding-bottom: 5px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.range-date-discount{
+    width: 100%;
+}

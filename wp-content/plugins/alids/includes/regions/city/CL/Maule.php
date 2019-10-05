@@ -1,0 +1,37 @@
+<?php
+    
+    return [
+        
+        "Cauquenes"       => __( "Cauquenes", "ads" ),
+        "Chanco"          => __( "Chanco", "ads" ),
+        "Pelluhue"        => __( "Pelluhue", "ads" ),
+        "Curicó"          => __( "Curicó", "ads" ),
+        "Hualañé"         => __( "Hualañé", "ads" ),
+        "Licantén"        => __( "Licantén", "ads" ),
+        "Molina"          => __( "Molina", "ads" ),
+        "Rauco"           => __( "Rauco", "ads" ),
+        "Romeral"         => __( "Romeral", "ads" ),
+        "Sagrada Familia" => __( "Sagrada Familia", "ads" ),
+        "Teno"            => __( "Teno", "ads" ),
+        "Vichuquén"       => __( "Vichuquén", "ads" ),
+        "Colbún"          => __( "Colbún", "ads" ),
+        "Linares"         => __( "Linares", "ads" ),
+        "Longaví"         => __( "Longaví", "ads" ),
+        "Parral"          => __( "Parral", "ads" ),
+        "Retiro"          => __( "Retiro", "ads" ),
+        "San Javier"      => __( "San Javier", "ads" ),
+        "Villa Alegre"    => __( "Villa Alegre", "ads" ),
+        "Yerbas Buenas"   => __( "Yerbas Buenas", "ads" ),
+        "Constitución"    => __( "Constitución", "ads" ),
+        "Curepto"         => __( "Curepto", "ads" ),
+        "Empedrado"       => __( "Empedrado", "ads" ),
+        "Maule"           => __( "Maule", "ads" ),
+        "Pelarco"         => __( "Pelarco", "ads" ),
+        "Pencahue"        => __( "Pencahue", "ads" ),
+        "Río Claro"       => __( "Río Claro", "ads" ),
+        "San Clemente"    => __( "San Clemente", "ads" ),
+        "San Rafael"      => __( "San Rafael", "ads" ),
+        "Talca"           => __( "Talca", "ads" ),
+        "Other"           => __( "Other", "ads" ),
+    
+    ];

@@ -1,0 +1,60 @@
+2019-10-04T19:35:17+00:00 CRITICAL Uncaught Error: Class 'ads\adsTmpl' not found in /home/trendsway/public_html/wp-content/themes/davinci2/header.php:7
+Stack trace:
+#0 /home/trendsway/public_html/wp-includes/template.php(722): require_once()
+#1 /home/trendsway/public_html/wp-includes/template.php(671): load_template('/home/trendsway...', true)
+#2 /home/trendsway/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/trendsway/public_html/wp-content/themes/davinci2/front-page.php(1): get_header()
+#4 /home/trendsway/public_html/wp-includes/template-loader.php(78): include('/home/trendsway...')
+#5 /home/trendsway/public_html/wp-blog-header.php(19): require_once('/home/trendsway...')
+#6 /home/trendsway/public_html/index.php(17): require('/home/trendsway...')
+#7 {main}
+  thrown in /home/trendsway/public_html/wp-content/themes/davinci2/header.php on line 7
+
+2019-10-04T19:40:10+00:00 CRITICAL Uncaught Error: Class 'ads\adsTmpl' not found in /home/trendsway/public_html/wp-content/themes/davinci2/header.php:7
+Stack trace:
+#0 /home/trendsway/public_html/wp-includes/template.php(722): require_once()
+#1 /home/trendsway/public_html/wp-includes/template.php(671): load_template('/home/trendsway...', true)
+#2 /home/trendsway/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/trendsway/public_html/wp-content/themes/davinci2/front-page.php(1): get_header()
+#4 /home/trendsway/public_html/wp-includes/template-loader.php(78): include('/home/trendsway...')
+#5 /home/trendsway/public_html/wp-blog-header.php(19): require_once('/home/trendsway...')
+#6 /home/trendsway/public_html/index.php(17): require('/home/trendsway...')
+#7 {main}
+  thrown in /home/trendsway/public_html/wp-content/themes/davinci2/header.php on line 7
+
+2019-10-04T19:50:17+00:00 CRITICAL Uncaught Error: Class 'ads\adsTmpl' not found in /home/trendsway/public_html/wp-content/themes/davinci2/header.php:7
+Stack trace:
+#0 /home/trendsway/public_html/wp-includes/template.php(722): require_once()
+#1 /home/trendsway/public_html/wp-includes/template.php(671): load_template('/home/trendsway...', true)
+#2 /home/trendsway/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/trendsway/public_html/wp-content/themes/davinci2/front-page.php(1): get_header()
+#4 /home/trendsway/public_html/wp-includes/template-loader.php(78): include('/home/trendsway...')
+#5 /home/trendsway/public_html/wp-blog-header.php(19): require_once('/home/trendsway...')
+#6 /home/trendsway/public_html/index.php(17): require('/home/trendsway...')
+#7 {main}
+  thrown in /home/trendsway/public_html/wp-content/themes/davinci2/header.php on line 7
+
+2019-10-04T19:50:37+00:00 CRITICAL Uncaught Error: Class 'ads\adsTmpl' not found in /home/trendsway/public_html/wp-content/themes/davinci2/header.php:7
+Stack trace:
+#0 /home/trendsway/public_html/wp-includes/template.php(722): require_once()
+#1 /home/trendsway/public_html/wp-includes/template.php(671): load_template('/home/trendsway...', true)
+#2 /home/trendsway/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/trendsway/public_html/wp-content/themes/davinci2/front-page.php(1): get_header()
+#4 /home/trendsway/public_html/wp-includes/template-loader.php(78): include('/home/trendsway...')
+#5 /home/trendsway/public_html/wp-blog-header.php(19): require_once('/home/trendsway...')
+#6 /home/trendsway/public_html/index.php(17): require('/home/trendsway...')
+#7 {main}
+  thrown in /home/trendsway/public_html/wp-content/themes/davinci2/header.php on line 7
+
+2019-10-04T19:54:52+00:00 CRITICAL Uncaught Error: Class 'ads\adsTmpl' not found in /home/trendsway/public_html/wp-content/themes/davinci2/header.php:7
+Stack trace:
+#0 /home/trendsway/public_html/wp-includes/template.php(722): require_once()
+#1 /home/trendsway/public_html/wp-includes/template.php(671): load_template('/home/trendsway...', true)
+#2 /home/trendsway/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/trendsway/public_html/wp-content/themes/davinci2/front-page.php(1): get_header()
+#4 /home/trendsway/public_html/wp-includes/template-loader.php(78): include('/home/trendsway...')
+#5 /home/trendsway/public_html/wp-blog-header.php(19): require_once('/home/trendsway...')
+#6 /home/trendsway/public_html/index.php(17): require('/home/trendsway...')
+#7 {main}
+  thrown in /home/trendsway/public_html/wp-content/themes/davinci2/header.php on line 7
+

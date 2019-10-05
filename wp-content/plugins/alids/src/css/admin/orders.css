@@ -1,0 +1,183 @@
+@import url('../icons/glyphicon/style.css');
+
+.list-variables li .js-edit-details{
+    display: none;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.list-variables li .js-edit-details:hover{
+    color: #000;
+}
+
+.list-variables li:last-child .js-edit-details{
+    display: inline-block;
+}
+/***/
+
+.select-sku{
+    background-color: #f5f5f5;
+    padding: 20px 15px;
+    margin: -15px;
+}
+
+.select-sku .btn-green-transparent{
+    background-color: #fff;
+}
+.select-sku-row{
+    margin: 0 0 20px 0;
+}
+
+.select-sku-row .name{
+    color: #757575;
+    font-size: 13px;
+    margin-right: 5px;
+}
+.select-sku-item{
+    display: inline-block;
+    margin: 5px 0;
+}
+.select-sku-item .value{
+    cursor: pointer;
+    color: #757575;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 22px;
+    margin: 0 5px 0 0;
+    padding: 1px 5px;
+    border: 1px solid #acacac;
+    background: #fff;
+    display: block;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+}
+.select-sku-item .value-img{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    overflow: hidden;
+    vertical-align: middle;
+    border: 1px solid #acacac;
+    background-color: #dedede;
+    margin: 0 10px 0 0;
+    padding: 0;
+}
+.select-sku-item .value-img img{
+    max-width:100%;}
+
+.select-sku-item.active .value{
+    border: 1px solid #1daeea;
+    box-shadow: 0 0 1px #1daeea;
+}
+
+.select-sku-item.disabled .value{
+    cursor: default;
+    opacity: 0.5;
+}
+
+.track_status-xs {
+    display: none !important;
+    vertical-align: top;
+    margin-left: 10px;
+}
+
+.order-item .email{
+    color: #333;
+    overflow-wrap: break-word;
+}
+
+.order-item .email:hover{
+    color: #333;
+}
+
+.status-item{
+    margin: 3px 0;
+}
+
+@media (max-width: 767px){
+    .track_status-xs{
+        display: inline-block !important;
+    }
+
+    .amount{
+        margin-bottom: 5px;
+    }
+
+    .order-item .time-ago, .order-item a:hover .time-ago,
+    .order-item .method {
+        font-size: 10px;
+    }
+
+    .order-item .amount-clear {
+        font-size: 14px;
+    }
+
+    .track-status {
+        width: 13px;
+        height: 13px;
+    }
+
+    .email{
+        overflow-wrap: break-word;
+    }
+
+    .label-status,
+    .order-status.bootstrap-select > .btn {
+        font-size: 11px;
+    }
+
+    .more-order-line h4 {
+        font-weight: 400;
+        font-size: 12px;
+        -webkit-line-clamp: 3;
+        white-space: normal;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        padding-left: 15px;
+    }
+
+    .table-item > div.orders-xs{
+        padding: 0 15px;
+    }
+
+    .thumbnail-xs{
+        max-width: 70px;
+        margin: 0 0 10px 0;
+    }
+
+    .table-item > div.table-item-one-xs{
+        padding-left: 10px;
+    }
+
+    .clip.order-title .to_clipboard{display: block;margin-left: -5px;}
+}
+
+.table-item-total{
+    border-top: 1px solid #e0e0e0;
+    font-size: 14px;
+    text-align: right;
+    padding: 10px;
+}
+
+.table-item-total .name{
+    font-weight: 700;
+}
+
+.table-item-total:hover {
+    background-color: #f5f5f5;
+}
+
+.row-flex-orders{
+    display: flex;
+}
+
+@media (max-width: 991px) {
+    .row-flex-orders{
+        display: block;
+    }
+}
+
+.row-flex-orders > div{
+    flex: 1;
+}

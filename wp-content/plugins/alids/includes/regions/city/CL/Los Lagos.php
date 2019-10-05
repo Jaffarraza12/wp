@@ -1,0 +1,37 @@
+<?php
+    
+    return [
+        
+        "Ancud"                => __( "Ancud", "ads" ),
+        "Castro"               => __( "Castro", "ads" ),
+        "Chonchi"              => __( "Chonchi", "ads" ),
+        "Curaco de Vélez"      => __( "Curaco de Vélez", "ads" ),
+        "Dalcahue"             => __( "Dalcahue", "ads" ),
+        "Puqueldón"            => __( "Puqueldón", "ads" ),
+        "Queilén"              => __( "Queilén", "ads" ),
+        "Quellón"              => __( "Quellón", "ads" ),
+        "Quemchi"              => __( "Quemchi", "ads" ),
+        "Quinchao"             => __( "Quinchao", "ads" ),
+        "Calbuco"              => __( "Calbuco", "ads" ),
+        "Cochamó"              => __( "Cochamó", "ads" ),
+        "Fresia"               => __( "Fresia", "ads" ),
+        "Frutillar"            => __( "Frutillar", "ads" ),
+        "Llanquihue"           => __( "Llanquihue", "ads" ),
+        "Los Muermos"          => __( "Los Muermos", "ads" ),
+        "Maullín"              => __( "Maullín", "ads" ),
+        "Puerto Montt"         => __( "Puerto Montt", "ads" ),
+        "Puerto Varas"         => __( "Puerto Varas", "ads" ),
+        "Osorno"               => __( "Osorno", "ads" ),
+        "Puerto Octay"         => __( "Puerto Octay", "ads" ),
+        "Purranque"            => __( "Purranque", "ads" ),
+        "Puyehue"              => __( "Puyehue", "ads" ),
+        "Río Negro"            => __( "Río Negro", "ads" ),
+        "San Juan de la Costa" => __( "San Juan de la Costa", "ads" ),
+        "San Pablo"            => __( "San Pablo", "ads" ),
+        "Chaitén"              => __( "Chaitén", "ads" ),
+        "Futaleufú"            => __( "Futaleufú", "ads" ),
+        "Hualaihué"            => __( "Hualaihué", "ads" ),
+        "Palena"               => __( "Palena", "ads" ),
+        "Other"                => __( "Other", "ads" ),
+    
+    ];

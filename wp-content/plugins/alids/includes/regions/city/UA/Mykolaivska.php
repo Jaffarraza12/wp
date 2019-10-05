@@ -1,0 +1,37 @@
+<?php
+    
+    return [
+        
+        "Piatykhatskyi"           => __( "Piatykhatskyi", "ads" ),
+        "Marinskyi"               => __( "Marinskyi", "ads" ),
+        "Kupianskyi"              => __( "Kupianskyi", "ads" ),
+        "Khmelnytskyi"            => __( "Khmelnytskyi", "ads" ),
+        "Pereiaslav-Khmelnytskyi" => __( "Pereiaslav-Khmelnytskyi", "ads" ),
+        "Slovianoserbskyi"        => __( "Slovianoserbskyi", "ads" ),
+        "Arbuzynskyi"             => __( "Arbuzynskyi", "ads" ),
+        "Bashtanskyi"             => __( "Bashtanskyi", "ads" ),
+        "Berezanskyi"             => __( "Berezanskyi", "ads" ),
+        "Bereznehuvatskyi"        => __( "Bereznehuvatskyi", "ads" ),
+        "Bratskyi"                => __( "Bratskyi", "ads" ),
+        "Domanivskyi"             => __( "Domanivskyi", "ads" ),
+        "Kazankivskyi"            => __( "Kazankivskyi", "ads" ),
+        "Kryvoozerskyi"           => __( "Kryvoozerskyi", "ads" ),
+        "Mykolaiv"                => __( "Mykolaiv", "ads" ),
+        "Mykolaivskyi"            => __( "Mykolaivskyi", "ads" ),
+        "Novobuzkyi"              => __( "Novobuzkyi", "ads" ),
+        "Novoodeskyi"             => __( "Novoodeskyi", "ads" ),
+        "Ochakiv"                 => __( "Ochakiv", "ads" ),
+        "Ochakivskyi"             => __( "Ochakivskyi", "ads" ),
+        "Pervomaisk"              => __( "Pervomaisk", "ads" ),
+        "Pervomaiskyi"            => __( "Pervomaiskyi", "ads" ),
+        "Snihurivskyi"            => __( "Snihurivskyi", "ads" ),
+        "Veselynivskyi"           => __( "Veselynivskyi", "ads" ),
+        "Voznesensk"              => __( "Voznesensk", "ads" ),
+        "Voznesenskyi"            => __( "Voznesenskyi", "ads" ),
+        "Vradiivskyi"             => __( "Vradiivskyi", "ads" ),
+        "Yelanetskyi"             => __( "Yelanetskyi", "ads" ),
+        "Yuzhnoukrainsk"          => __( "Yuzhnoukrainsk", "ads" ),
+        "Zhovtnevyi"              => __( "Zhovtnevyi", "ads" ),
+        "Other"                   => __( "Other", "ads" ),
+    
+    ];
