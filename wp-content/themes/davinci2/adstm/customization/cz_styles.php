@@ -11,7 +11,7 @@
         .subitem-nav li .active {color: <?php echo cz( 'tp_color' )?>;}
         .subitem-nav li .active:after {background: <?php echo cz( 'tp_color' )?>;}
 
-        .mainnav ul li:hover>a,.mainnav ul li:active>a{background:<?php echo cz( 'tp_color' )?>;}
+        .mainnav ul li:hover>a,.mainnav ul li:active>a{background:<?php echo cz( 'tp_header_text_color' )?>;}
         .upheader,.adapupheader {background: <?php echo cz( 'tp_color' )?>!important;}
         @media(max-width:1289px) {
             .searchcont input,.upheaderR,.upheaderL:before{background: <?php echo cz( 'tp_color' )?>!important;}
@@ -33,9 +33,9 @@
             }
 
 
-            .mainnav a {color: #444!important;}
-            .mainnav ul li:active>a, .mainnav ul li:hover>a {color: #fff!important;}
-            .mainnav li ul li:active>a, .mainnav li ul li:hover>a {color: #399fd2!important;}
+            .mainnav a {color: #2b2d2e!important;}
+            .mainnav ul li:active>a, .mainnav ul li:hover>a {color: #2b2d2e!important;}
+            .mainnav li ul li:active>a, .mainnav li ul li:hover>a {color: #2b2d2e!important;}
         }
         @media(max-width:1289px) {
             .searchcont input,.searchcont input::placeholder,.searchcont span,.adapupheader{color:<?php echo cz( 'tp_header_text_color' )?>!important;}

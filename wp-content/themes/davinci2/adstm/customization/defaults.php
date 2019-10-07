@@ -24,14 +24,14 @@ return [
 	'tp_menu_hover_color'         => '#3c5460',
     'tp_menu_hover_subitem_color' => '#399fd2',
 	'tp_discount_bg_color'        => '#3c5460',
-	'tp_price_color'              => '#ff9749',
+	'tp_price_color'              => '#c90700',
 	'tp_cart_pay_btn_color'       => '#ff9841',
 	'tp_cart_pay_btn_color_hover' => '#FF831B',
     'tp_account_btn_color'        => '#ff9841',
     'tp_account_btn_color_hover'  => '#FF831B',
 
     'tp_header_text_color'        => '#2b2d2e',
-    'tp_header_text_color_hover'  => '#ffffff',
+    'tp_header_text_color_hover'  => '#2b2d2e',
 
     'tp_do_rtl'         => false,
 
@@ -96,12 +96,12 @@ return [
 	'slider_home_fs_mob'  => '20',
 	'slider_home_fs_desk' => '20',
 	'home_grid_enable'    => true,
-	'grid_home_img1'      => IMG_DIR . 'mona1.jpg',
-	'grid_home_img2'      => IMG_DIR . 'mona2.jpg',
-	'grid_home_txt1'      => __( 'Buy with confidence using the world’s most popular and secure payment methods', 'dav2' ),
-	'grid_home_txt2'      => __( 'Our Buyer Protection covers your purchase from click to delivery', 'dav2' ),
-	'grid_home_href1'     => home_url( '/product/' ),
-	'grid_home_href2'     => home_url( '/product/' ),
+	'grid_home_img1'      => IMG_DIR . '336-19e569.jpg',
+	'grid_home_img2'      => IMG_DIR . '176-497b20.jpg',
+	'grid_home_txt1'      => __( 'Women’s Solid Rain Jackets Outdoor Hoodied Waterproof Long Coats Overcoat Long', 'dav2' ),
+	'grid_home_txt2'      => __( 'Children Hoodies Hooded Sweatshirts Boys Girls Kids Fleece Cartoon Print Zipper Cotton', 'dav2' ),
+	'grid_home_href1'     => home_url( '/womens-solid-rain-jackets-outdoor-hoodied-waterproof-long-coats-overcoat-long-windbreaker-plus-size-outerwear-harajuku/' ),
+	'grid_home_href2'     => home_url( '/2019-children-hoodies-hooded-sweatshirts-boys-girls-kids-fleece-cartoon-print-zipper-cotton-tops-baby-boys-autumn-winter-clothes/' ),
 
 	'slider_home' => [
 		[
