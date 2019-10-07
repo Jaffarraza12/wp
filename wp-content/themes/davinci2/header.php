@@ -3,6 +3,7 @@
 <head>
 	<link rel="shortcut icon" href="<?php _cz( 'tp_favicon' ); ?>"/>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
+    <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     <meta name="viewport" content="width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
     <?php \ads\adsTmpl::meta(); ?>
 	<?php wp_head(); ?>
