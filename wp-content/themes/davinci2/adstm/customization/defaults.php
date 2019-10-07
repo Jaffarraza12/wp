@@ -31,7 +31,7 @@ return [
     'tp_account_btn_color_hover'  => '#FF831B',
 
     'tp_header_text_color'        => '#2b2d2e',
-    'tp_header_text_color_hover'  => '#2b2d2e',
+    'tp_header_text_color_hover'  => '#f8f8f8',
 
     'tp_do_rtl'         => false,
 
