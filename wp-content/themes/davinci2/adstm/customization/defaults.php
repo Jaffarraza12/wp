@@ -15,10 +15,10 @@ return [
 	/*base*/
 	'tp_create'              => true,
 
-	'tp_color'                    => '#3C5460',
+	'tp_color'                    => '#f8f8f8',
 	'tp_color_additional'         => '#a0b4c5',
-	'cart_color'                  => '#ff9841',
-	'cart_color_hover'            => '#FF831B',
+	'cart_color'                  => '#c90700',
+	'cart_color_hover'            => '#c90700',
     'buttons_default'             => '#444444',
     'buttons_default_hover'       => '#222222',
 	'tp_menu_hover_color'         => '#3c5460',
@@ -30,7 +30,7 @@ return [
     'tp_account_btn_color'        => '#ff9841',
     'tp_account_btn_color_hover'  => '#FF831B',
 
-    'tp_header_text_color'        => '#b6d4e8',
+    'tp_header_text_color'        => '#2b2d2e',
     'tp_header_text_color_hover'  => '#ffffff',
 
     'tp_do_rtl'         => false,
