@@ -30,7 +30,7 @@ return [
     'tp_account_btn_color'        => '#ff9841',
     'tp_account_btn_color_hover'  => '#FF831B',
 
-    'tp_header_text_color'        => '#2b2d2e',
+    'tp_header_text_color'        => '#f8f8f8',
     'tp_header_text_color_hover'  => '#f8f8f8',
 
     'tp_do_rtl'         => false,
@@ -171,7 +171,7 @@ return [
 	],
 
 	'most_popular_head'      => __( 'Most popular categories', 'dav2' ),
-	'most_popular_fix'       => false,
+	'most_popular_fix'       => true,
 	'most_popular_link_head' => home_url("/product/?orderby=orders"),
 	'most_popular_list' => [
 		[
