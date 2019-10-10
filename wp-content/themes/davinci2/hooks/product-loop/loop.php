@@ -11,8 +11,8 @@ function adstm_start_loop_topselling_product( $posts_per_page = 4 ) {
 	$args = [
 		'post_type'      => 'product',
 		'posts_per_page' => $posts_per_page,
-        'tag_ID'         => 22,
-		'_orderby'       => 'promotionVolume',
+        'category' => 22,
+        '_orderby'       => 'promotionVolume',
 		'_order'         => 'DESC',
 		'post__not_in'   => $GLOBAL[ 'id_post_show' ]
 	];
