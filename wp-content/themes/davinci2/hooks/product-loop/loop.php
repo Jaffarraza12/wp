@@ -11,7 +11,6 @@ function adstm_start_loop_topselling_product( $posts_per_page = 4 ) {
 	$args = [
 		'post_type'      => 'product',
 		'posts_per_page' => $posts_per_page,
-        'product_cat' =>  'women-fashion',
         '_orderby'       => 'promotionVolume',
 		'_order'         => 'DESC',
 		'post__not_in'   => $GLOBAL[ 'id_post_show' ]
@@ -20,6 +19,30 @@ function adstm_start_loop_topselling_product( $posts_per_page = 4 ) {
 	query_posts( $args );
 }
 add_action( 'adstm_start_loop_topselling_product', 'adstm_start_loop_topselling_product', 10, 1 );
+
+
+
+function adstm_start_loop_category_product( $posts_per_page = 4 ,$product_cat ) {
+
+    global $GLOBAL;
+
+    if( ! isset( $GLOBAL[ 'id_post_show' ] ) ) {
+        $GLOBAL[ 'id_post_show' ] = [];
+    }
+
+    $args = [
+        'post_type'      => 'product',
+        'posts_per_page' => $posts_per_page,
+        'product_cat' => $product_cat,
+        '_orderby'       => 'promotionVolume',
+        '_order'         => 'DESC',
+        'post__not_in'   => $GLOBAL[ 'id_post_show' ]
+    ];
+
+    query_posts( $args );
+}
+add_action( 'adstm_start_loop_category_product', 'adstm_start_loop_category_product', 10, 1 );
+
 
 function adstm_start_loop_bestdials_product( $posts_per_page = 4 ) {
 	

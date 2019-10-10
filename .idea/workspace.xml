@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96965ba8-1084-4937-801f-16cee4640496" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php" afterPath="$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,19 +58,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="135" column="68" lean-forward="false" selection-start-line="135" selection-start-column="34" selection-end-line="135" selection-end-column="68" />
+            <state relative-caret-position="306">
+              <caret line="129" column="61" lean-forward="true" selection-start-line="129" selection-start-column="61" selection-end-line="129" selection-end-column="61" />
               <folding>
-                <marker date="1570702748191" expanded="true" signature="2093:2708" ph="..." />
-                <marker date="1570702748191" expanded="true" signature="2181:2665" ph="..." />
-                <marker date="1570702748191" expanded="false" signature="2261:2275" ph="..." />
-                <marker date="1570702748191" expanded="true" signature="2276:2618" ph="..." />
-                <marker date="1570702748191" expanded="false" signature="2361:2369" ph="..." />
-                <marker date="1570702748191" expanded="true" signature="2454:2567" ph="..." />
-                <marker date="1570702748191" expanded="true" signature="3373:3597" ph="..." />
+                <marker date="1570706112559" expanded="true" signature="2093:2708" ph="..." />
+                <marker date="1570706112559" expanded="true" signature="2181:2665" ph="..." />
+                <marker date="1570706112559" expanded="false" signature="2261:2275" ph="..." />
+                <marker date="1570706112559" expanded="true" signature="2276:2618" ph="..." />
+                <marker date="1570706112559" expanded="false" signature="2361:2369" ph="..." />
+                <marker date="1570706112559" expanded="true" signature="2454:2567" ph="..." />
+                <marker date="1570706112559" expanded="true" signature="3373:3597" ph="..." />
               </folding>
             </state>
           </provider>
@@ -95,13 +96,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loop.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="loop.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="408">
+              <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="42" />
               <folding>
-                <marker date="1570705899459" expanded="true" signature="2313:2702" ph="SELECT p.ID $" />
+                <marker date="1570706050837" expanded="true" signature="2879:3268" ph="SELECT p.ID $" />
               </folding>
             </state>
           </provider>
@@ -127,7 +128,6 @@
       <find>TOP SELLING</find>
       <find>post_type</find>
       <find>Client</find>
-      <find>adstm_start_loop_topselling_product</find>
       <find>\$terms \= wp_get_post_terms\( \$post\-\&gt;ID\, \'product_cat\' \)\;\n</find>
       <find>adstm_start_loop_bestdials_product</find>
       <find>c</find>
@@ -135,12 +135,13 @@
       <find>cart</find>
       <find>car</find>
       <find>caty</find>
-      <find>cat</find>
       <find>cate</find>
       <find>categ</find>
       <find>catego</find>
       <find>categor</find>
       <find>category</find>
+      <find>adstm_start_loop_topselling_product</find>
+      <find>cat</find>
     </findStrings>
     <dirStrings>
       <dir>E:\wp\wp-content\themes\davinci2\template</dir>
@@ -151,13 +152,13 @@
     <commandsHistory>
       <command text="git commit -m &quot;UI change&quot;" />
       <command text="git push" />
-      <command text="git add ." />
-      <command text="git commit -m &quot;UI change&quot;" />
-      <command text="git push" />
       <command text="git pull" />
       <command text="git status" />
       <command text="git add  wp-content/themes/davinci2/adstm/customization/defaults.php" />
       <command text="git commit -m &quot;UI change&quot;" />
+      <command text="git push" />
+      <command text="git add ." />
+      <command text="git commit -m &quot;Module CHange.&quot;" />
       <command text="git push" />
       <command text="git add ." />
       <command text="git commit -m &quot;Module CHange.&quot;" />
@@ -189,8 +190,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/adstm/customization/cz_styles.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/adstm/customization/defaults.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php" />
       </list>
     </option>
   </component>
@@ -428,23 +429,23 @@
       <workItem from="1570451081179" duration="2111000" />
       <workItem from="1570528031481" duration="723000" />
       <workItem from="1570604196609" duration="3734000" />
-      <workItem from="1570701578501" duration="3799000" />
+      <workItem from="1570701578501" duration="4013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13097000" />
+    <option name="totallyTimeSpent" value="13311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25920245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25920245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5030675" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3264095" sideWeight="0.4969325" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264095" sideWeight="0.4969325" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -466,8 +467,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5030675" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3264095" sideWeight="0.4969325" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25920245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -475,8 +476,8 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,13 +566,13 @@
         <state relative-caret-position="1003">
           <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding>
-            <marker date="1570702748191" expanded="true" signature="2093:2708" ph="..." />
-            <marker date="1570702748191" expanded="true" signature="2181:2665" ph="..." />
-            <marker date="1570702748191" expanded="false" signature="2261:2275" ph="..." />
-            <marker date="1570702748191" expanded="true" signature="2276:2618" ph="..." />
-            <marker date="1570702748191" expanded="false" signature="2361:2369" ph="..." />
-            <marker date="1570702748191" expanded="true" signature="2454:2567" ph="..." />
-            <marker date="1570702748191" expanded="true" signature="3373:3597" ph="..." />
+            <marker date="1570706112559" expanded="true" signature="2093:2708" ph="..." />
+            <marker date="1570706112559" expanded="true" signature="2181:2665" ph="..." />
+            <marker date="1570706112559" expanded="false" signature="2261:2275" ph="..." />
+            <marker date="1570706112559" expanded="true" signature="2276:2618" ph="..." />
+            <marker date="1570706112559" expanded="false" signature="2361:2369" ph="..." />
+            <marker date="1570706112559" expanded="true" signature="2454:2567" ph="..." />
+            <marker date="1570706112559" expanded="true" signature="3373:3597" ph="..." />
           </folding>
         </state>
       </provider>
@@ -860,28 +861,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="135" column="68" lean-forward="false" selection-start-line="135" selection-start-column="34" selection-end-line="135" selection-end-column="68" />
+          <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="42" />
           <folding>
-            <marker date="1570702748191" expanded="true" signature="2093:2708" ph="..." />
-            <marker date="1570702748191" expanded="true" signature="2181:2665" ph="..." />
-            <marker date="1570702748191" expanded="false" signature="2261:2275" ph="..." />
-            <marker date="1570702748191" expanded="true" signature="2276:2618" ph="..." />
-            <marker date="1570702748191" expanded="false" signature="2361:2369" ph="..." />
-            <marker date="1570702748191" expanded="true" signature="2454:2567" ph="..." />
-            <marker date="1570702748191" expanded="true" signature="3373:3597" ph="..." />
+            <marker date="1570706050837" expanded="true" signature="2879:3268" ph="SELECT p.ID $" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="306">
+          <caret line="129" column="61" lean-forward="true" selection-start-line="129" selection-start-column="61" selection-end-line="129" selection-end-column="61" />
           <folding>
-            <marker date="1570705899459" expanded="true" signature="2313:2702" ph="SELECT p.ID $" />
+            <marker date="1570706112559" expanded="true" signature="2093:2708" ph="..." />
+            <marker date="1570706112559" expanded="true" signature="2181:2665" ph="..." />
+            <marker date="1570706112559" expanded="false" signature="2261:2275" ph="..." />
+            <marker date="1570706112559" expanded="true" signature="2276:2618" ph="..." />
+            <marker date="1570706112559" expanded="false" signature="2361:2369" ph="..." />
+            <marker date="1570706112559" expanded="true" signature="2454:2567" ph="..." />
+            <marker date="1570706112559" expanded="true" signature="3373:3597" ph="..." />
           </folding>
         </state>
       </provider>
