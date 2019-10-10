@@ -31,6 +31,7 @@ function adstm_start_loop_bestdials_product( $posts_per_page = 4 ) {
 	$args = [
 		'post_type'      => 'product',
 		'posts_per_page' => $posts_per_page,
+        'product_cat'         => 22,
 		'_orderby'       => 'discount',
 		'_order'         => 'DESC',
 		'post__not_in'   => $GLOBAL[ 'id_post_show' ]

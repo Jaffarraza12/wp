@@ -114,7 +114,7 @@
 
 			<h3 class="title-cat aship-title text-uppercase">
 				<a href="<?php echo adstm_home_url( 'product' ) ?>?orderby=orders">
-                    <?php _e( 'Top Selling Products', 'dav2' ); ?>
+                    <?php _e( 'KIDS CLOTHING', 'dav2' ); ?>
                 </a>
 			</h3>
 			<div class="row no-gutters">
