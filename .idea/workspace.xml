@@ -98,10 +98,10 @@
       <file leaf-file-name="loop.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
               <folding>
-                <marker date="1570703080048" expanded="true" signature="2296:2685" ph="SELECT p.ID $" />
+                <marker date="1570703264548" expanded="true" signature="2291:2680" ph="SELECT p.ID $" />
               </folding>
             </state>
           </provider>
@@ -149,9 +149,6 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
-      <command text="git statys" />
-      <command text="git status" />
-      <command text="git add wp-content/themes/davinci2/adstm/customization/defaults.php" />
       <command text="git commit -m &quot;UI Change.&quot;" />
       <command text="git push" />
       <command text="git status" />
@@ -167,6 +164,9 @@
       <command text="git status" />
       <command text="git add  wp-content/themes/davinci2/adstm/customization/defaults.php" />
       <command text="git commit -m &quot;UI change&quot;" />
+      <command text="git push" />
+      <command text="git add ." />
+      <command text="git commit -m &quot;Module CHange.&quot;" />
       <command text="git push" />
       <command text="git add ." />
       <command text="git commit -m &quot;Module CHange.&quot;" />
@@ -428,12 +428,12 @@
       <workItem from="1570451081179" duration="2111000" />
       <workItem from="1570528031481" duration="723000" />
       <workItem from="1570604196609" duration="3734000" />
-      <workItem from="1570701578501" duration="1491000" />
+      <workItem from="1570701578501" duration="1675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10789000" />
+    <option name="totallyTimeSpent" value="10973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
@@ -874,10 +874,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
           <folding>
-            <marker date="1570703080048" expanded="true" signature="2296:2685" ph="SELECT p.ID $" />
+            <marker date="1570703264548" expanded="true" signature="2291:2680" ph="SELECT p.ID $" />
           </folding>
         </state>
       </provider>
