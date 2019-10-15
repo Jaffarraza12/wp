@@ -37,9 +37,39 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="136">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding>
+                <marker date="1571144627711" expanded="true" signature="1423:1555" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="1453:1555" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="1488:1555" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="1523:1555" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="1880:1972" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="2018:2226" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="2054:2226" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="2088:2226" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="2136:2226" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="2182:2226" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="2317:2366" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="3341:3497" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="5573:5684" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="6269:6384" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="6326:6384" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="6562:6653" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="6609:6653" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="7070:7116" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="7318:7466" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="8149:8580" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="8185:8580" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="8223:8580" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="8271:8580" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="8339:8580" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="8390:8485" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="8698:9026" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="8772:9026" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="8834:9026" ph="..." />
+                <marker date="1571144627711" expanded="true" signature="8937:9026" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,7 +182,7 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
-      <command text="git pull" />
+      <command text="git push" />
       <command text="git add ." />
       <command text="git commit -m &quot;Module Update.&quot;" />
       <command text="git push" />
@@ -409,12 +439,12 @@
       <workItem from="1570701578501" duration="5190000" />
       <workItem from="1571039559335" duration="4533000" />
       <workItem from="1571132140224" duration="1268000" />
-      <workItem from="1571143431409" duration="870000" />
+      <workItem from="1571143431409" duration="1190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21159000" />
+    <option name="totallyTimeSpent" value="21479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
@@ -917,9 +947,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="136">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <marker date="1571144627711" expanded="true" signature="1423:1555" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="1453:1555" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="1488:1555" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="1523:1555" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="1880:1972" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="2018:2226" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="2054:2226" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="2088:2226" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="2136:2226" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="2182:2226" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="2317:2366" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="3341:3497" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="5573:5684" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="6269:6384" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="6326:6384" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="6562:6653" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="6609:6653" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="7070:7116" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="7318:7466" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="8149:8580" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="8185:8580" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="8223:8580" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="8271:8580" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="8339:8580" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="8390:8485" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="8698:9026" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="8772:9026" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="8834:9026" ph="..." />
+            <marker date="1571144627711" expanded="true" signature="8937:9026" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
