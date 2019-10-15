@@ -35,7 +35,7 @@
     $product = $ADSTM[ 'product' ];
     $review  = $ADSTM[ 'review' ];
     $info    = $ADSTM[ 'info' ];
-    print_r($product );
+
 
     ?>
          <meta property="og:type"                   content="og:product" />
