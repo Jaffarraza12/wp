@@ -36,8 +36,7 @@
     $review  = $ADSTM[ 'review' ];
     $info    = $ADSTM[ 'info' ];
 
-    echo 1;
-    exit();
+
     ?>
          <meta property="og:type"                   content="og:product" />
     <meta property="og:title"                  content="" />
@@ -49,7 +48,10 @@
 
 
 
-    <?php } ?>
+    <?php
+        echo 1;
+        exit();
+    } ?>
 
 
 
