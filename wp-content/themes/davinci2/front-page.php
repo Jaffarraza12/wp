@@ -82,7 +82,7 @@
 
 		<?php if( cz( 'tp_countdown' ) ) : ?>
 
-            <div class="content-countdown">
+            <div class="content-countdown" style="display: none">
                 <div class="top-plate clearfix">
                     <div class="text text-uppercase">
                         <?php _cz( 'tp_countdown_text' ) ?>
@@ -106,7 +106,7 @@
 
         <?php endif; ?>
 
-		<?php get_template_part( 'template/widget/_features' ); ?>
+		<?php // get_template_part( 'template/widget/_features' ); ?>
 
 		<!-- TOP SELLING PRODUCTS -->
 		<div class="content-from-cat aship-box-products">
