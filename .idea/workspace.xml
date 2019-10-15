@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96965ba8-1084-4937-801f-16cee4640496" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php" afterPath="$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="197">
-              <caret line="119" column="93" lean-forward="false" selection-start-line="119" selection-start-column="93" selection-end-line="119" selection-end-column="93" />
+              <caret line="119" column="75" lean-forward="false" selection-start-line="119" selection-start-column="75" selection-end-line="119" selection-end-column="75" />
               <folding>
                 <marker date="1571133030081" expanded="true" signature="2093:2570" ph="..." />
                 <marker date="1571133030081" expanded="true" signature="2093:2613" ph="..." />
@@ -90,8 +89,8 @@
       <file leaf-file-name="core.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/adstm/core.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="391">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -100,24 +99,24 @@
       <file leaf-file-name="plugin.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="796">
+            <state relative-caret-position="541">
               <caret line="404" column="9" lean-forward="false" selection-start-line="404" selection-start-column="9" selection-end-line="404" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loop.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="loop.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="39" column="29" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
               <folding>
                 <element signature="n#adstm_start_loop_bestdials_product#0;n#!!top" expanded="false" />
                 <element signature="n#adstm_start_loop_arrivals_product#0;n#!!top" expanded="false" />
                 <element signature="n#adstm_start_loop_related_product#0;n#!!top" expanded="false" />
-                <element signature="e#4583#5091#1#PHP" expanded="false" />
-                <marker date="1571133013465" expanded="true" signature="2961:3350" ph="SELECT p.ID $" />
+                <element signature="e#4550#5058#1#PHP" expanded="false" />
+                <marker date="1571133121849" expanded="true" signature="2928:3317" ph="SELECT p.ID $" />
               </folding>
             </state>
           </provider>
@@ -187,10 +186,10 @@
       <command text="git add ." />
       <command text="git commit -m &quot;Module CHange.&quot;" />
       <command text="git push" />
-      <command text="git add ." />
-      <command text="git commit -m &quot;Module CHange.&quot;" />
-      <command text="git push" />
       <command text="git pull" />
+      <command text="git add ." />
+      <command text="git commit -m &quot;Module Update.&quot;" />
+      <command text="git push" />
       <command text="git add ." />
       <command text="git commit -m &quot;Module Update.&quot;" />
       <command text="git push" />
@@ -215,8 +214,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/adstm/customization/cz_styles.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/adstm/customization/defaults.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php" />
       </list>
     </option>
   </component>
@@ -457,12 +456,12 @@
       <workItem from="1570604196609" duration="3734000" />
       <workItem from="1570701578501" duration="5190000" />
       <workItem from="1571039559335" duration="4533000" />
-      <workItem from="1571132140224" duration="882000" />
+      <workItem from="1571132140224" duration="974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19903000" />
+    <option name="totallyTimeSpent" value="19995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
@@ -519,7 +518,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php</url>
-          <line>93</line>
+          <line>91</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -560,8 +559,8 @@
             <element signature="n#adstm_start_loop_bestdials_product#0;n#!!top" expanded="false" />
             <element signature="n#adstm_start_loop_arrivals_product#0;n#!!top" expanded="false" />
             <element signature="n#adstm_start_loop_related_product#0;n#!!top" expanded="false" />
-            <element signature="e#4583#5091#1#PHP" expanded="false" />
-            <marker date="1571133013465" expanded="true" signature="2961:3350" ph="SELECT p.ID $" />
+            <element signature="e#4550#5058#1#PHP" expanded="false" />
+            <marker date="1571133121849" expanded="true" signature="2928:3317" ph="SELECT p.ID $" />
           </folding>
         </state>
       </provider>
@@ -924,40 +923,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="404" column="9" lean-forward="false" selection-start-line="404" selection-start-column="9" selection-end-line="404" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/adstm/core.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding>
-            <element signature="n#adstm_start_loop_bestdials_product#0;n#!!top" expanded="false" />
-            <element signature="n#adstm_start_loop_arrivals_product#0;n#!!top" expanded="false" />
-            <element signature="n#adstm_start_loop_related_product#0;n#!!top" expanded="false" />
-            <element signature="e#4583#5091#1#PHP" expanded="false" />
-            <marker date="1571133013465" expanded="true" signature="2961:3350" ph="SELECT p.ID $" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
-          <caret line="119" column="93" lean-forward="false" selection-start-line="119" selection-start-column="93" selection-end-line="119" selection-end-column="93" />
+          <caret line="119" column="75" lean-forward="false" selection-start-line="119" selection-start-column="75" selection-end-line="119" selection-end-column="75" />
           <folding>
             <marker date="1571133030081" expanded="true" signature="2093:2570" ph="..." />
             <marker date="1571133030081" expanded="true" signature="2093:2613" ph="..." />
@@ -967,6 +936,36 @@
             <marker date="1571133030081" expanded="false" signature="2266:2274" ph="..." />
             <marker date="1571133030081" expanded="true" signature="2359:2472" ph="..." />
             <marker date="1571133030081" expanded="true" signature="3278:3502" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/adstm/core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="404" column="9" lean-forward="false" selection-start-line="404" selection-start-column="9" selection-end-line="404" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="39" column="29" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding>
+            <element signature="n#adstm_start_loop_bestdials_product#0;n#!!top" expanded="false" />
+            <element signature="n#adstm_start_loop_arrivals_product#0;n#!!top" expanded="false" />
+            <element signature="n#adstm_start_loop_related_product#0;n#!!top" expanded="false" />
+            <element signature="e#4550#5058#1#PHP" expanded="false" />
+            <marker date="1571133121849" expanded="true" signature="2928:3317" ph="SELECT p.ID $" />
           </folding>
         </state>
       </provider>

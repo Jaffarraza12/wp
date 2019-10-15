@@ -24,11 +24,9 @@ add_action( 'adstm_start_loop_topselling_product', 'adstm_start_loop_topselling_
 
 function adstm_start_loop_category_product( $data = array() ) {
 
-    /*echo $posts_per_page;
-    echo $product_cat;
-    exit();*/
-    print_r($data);
-    exit();
+
+    $posts_per_page = $data[0];
+    $product_cat = $data[1];
 
      global $GLOBAL;
 
@@ -39,7 +37,7 @@ function adstm_start_loop_category_product( $data = array() ) {
     $args = [
         'post_type'      => 'product',
         'posts_per_page' => $posts_per_page,
-        'product_cat' => 'toys-babies',
+        'product_cat'    => $product_cat,
         '_orderby'       => 'promotionVolume',
         '_order'         => 'DESC',
         'post__not_in'   => $GLOBAL[ 'id_post_show' ]
