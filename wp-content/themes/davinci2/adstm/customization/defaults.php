@@ -43,7 +43,7 @@ return [
 	'tp_img_left_cart' => IMG_DIR . 'godaddy.png',
 	'tp_logo_img'      => IMG_DIR . 'logo.jpg',
 
-	'tp_favicon'      => TEMPLATE_URL . '/favicon.ico',
+	'tp_favicon'      => TEMPLATE_URL . '/T.png',
 	's_mail'          => 'support@' . parse_url(ADSTM_HOME, PHP_URL_HOST),
 	'tp_header_phone' => '+923142587491',
 	'tp_icon_phone'   => 'fa-phone',

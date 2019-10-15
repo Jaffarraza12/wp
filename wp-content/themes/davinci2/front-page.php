@@ -43,7 +43,6 @@
 								printf(
                                     '<div class="swiper-slide">
                                         <div class="itembgr scene_block scene'.$key.'">
-                                            <div class="slideblack %s" style="background:%s;">
                                                 <div class="slideblacktext" style="color:%s">%s</div>
                                                 <div class="slidebtns row">
                                                     %s %s
@@ -118,7 +117,7 @@
                 </a>
 			</h3>
 			<div class="row no-gutters">
-				<?php do_action('adstm_start_loop_category_product', array(8,'toys-babies') );
+				<?php do_action('adstm_start_loop_category_product', 8 | 'toys-babies');
 
                 get_template_part('template/loop/home/loop'); ?>
 			</div>
