@@ -128,29 +128,44 @@
 		<div class="content-from-cat aship-box-products">
 			<h3 class="title-cat aship-title text-uppercase">
 				<a href="<?php echo adstm_home_url( 'product' ) ?>?orderby=discount">
-					<?php _e( 'Best deals', 'dav2' ); ?>
+					<?php _e( 'Women Fashion', 'dav2' ); ?>
 				</a>
 			</h3>
 			<div class="row no-gutters">
-				<?php do_action( 'adstm_start_loop_bestdials_product', 8 );
+				<?php //do_action( 'adstm_start_loop_bestdials_product', 8 );
+                do_action('adstm_start_loop_category_product', array(8 , 'women-fashion'));
 
                 get_template_part( 'template/loop/home/loop' ); ?>
 			</div>
 		</div>
-		
-		<!-- NEW ARRIVALS -->
+		<div class="content-from-cat aship-box-products">
+			<h3 class="title-cat aship-title text-uppercase">
+				<a href="<?php echo adstm_home_url( 'product' ) ?>?orderby=discount">
+					<?php _e( 'Men Fasion', 'dav2' ); ?>
+				</a>
+			</h3>
+			<div class="row no-gutters">
+				<?php //do_action( 'adstm_start_loop_bestdials_product', 8 );
+                do_action('adstm_start_loop_category_product', array(8 , 'men-fashion'));
+
+                get_template_part( 'template/loop/home/loop' ); ?>
+			</div>
+		</div>
+
+
+		<!-- NEW ARRIVALS
 		<div class="content-from-cat aship-box-products">
             <h3 class="title-cat aship-title text-uppercase">
                 <a href="<?php echo adstm_home_url( 'product' ) ?>?orderby=newest">
-                    <?php _e( 'new arrivals', 'dav2' ); ?>
+                    <?php //_e( 'new arrivals', 'dav2' ); ?>
                 </a>
             </h3>
             <div class="row no-gutters">
-                <?php do_action( 'adstm_start_loop_arrivals_product', 8 );
+                <?php //do_action( 'adstm_start_loop_arrivals_product', 8 );
                 get_template_part( 'template/loop/home/loop' );?>
 
             </div>
-		</div>
+		</div> -->
 
             <div class="subhome">
                 <div class="row">
