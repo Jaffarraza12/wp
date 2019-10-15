@@ -38,15 +38,6 @@
 
 
     ?>
-         <meta property="og:type"                   content="og:product" />
-    <meta property="og:title"                  content="" />
-    <meta property="og:image"                  content="<?php echo $info['gallery'][0]['full'] ?>" />
-    <meta property="og:description"            content="Friend Smash Coins to purchase upgrades and items!" />
-    <meta property="og:url"                    content="<?php echo  $url ?>" />
-     <meta property="product:price:amount"      content="<?php echo  $product['_salePrice']?>"/>
-    <meta property="product:price:currency"    content="PKR"/>
-
-
 
     <?php     } ?>
 
