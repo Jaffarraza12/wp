@@ -34,8 +34,12 @@
 
     $product = $ADSTM[ 'product' ];
     $review  = $ADSTM[ 'review' ];
-    $info    = $ADSTM[ 'info' ]; ?>
-     <meta property="og:type"                   content="og:product" />
+    $info    = $ADSTM[ 'info' ];
+
+    echo 1;
+    exit();
+    ?>
+         <meta property="og:type"                   content="og:product" />
     <meta property="og:title"                  content="" />
     <meta property="og:image"                  content="<?php echo $info['gallery'][0]['full'] ?>" />
     <meta property="og:description"            content="Friend Smash Coins to purchase upgrades and items!" />
