@@ -24,6 +24,10 @@ add_action( 'adstm_start_loop_topselling_product', 'adstm_start_loop_topselling_
 
 function adstm_start_loop_category_product( $posts_per_page = 4 ,$product_cat = '' ) {
 
+    echo $posts_per_page;
+    echo $product_cat;
+    exit();
+
      global $GLOBAL;
 
     if( ! isset( $GLOBAL[ 'id_post_show' ] ) ) {
