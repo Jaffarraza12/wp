@@ -24,9 +24,9 @@ add_action( 'adstm_start_loop_topselling_product', 'adstm_start_loop_topselling_
 
 function adstm_start_loop_category_product( $posts_per_page = 4 ,$product_cat = '' ) {
 
-    echo $posts_per_page;
+    /*echo $posts_per_page;
     echo $product_cat;
-    exit();
+    exit();*/
 
      global $GLOBAL;
 
@@ -37,7 +37,7 @@ function adstm_start_loop_category_product( $posts_per_page = 4 ,$product_cat = 
     $args = [
         'post_type'      => 'product',
         'posts_per_page' => $posts_per_page,
-        'product_cat' => $product_cat,
+        'product_cat' => 'toys-babies',
         '_orderby'       => 'promotionVolume',
         '_order'         => 'DESC',
         'post__not_in'   => $GLOBAL[ 'id_post_show' ]
