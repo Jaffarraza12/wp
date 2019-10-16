@@ -37,7 +37,7 @@
     $info    = $ADSTM[ 'info' ];
         print_r($product['gallery'][0]);
         echo $product['_price'];
-        echo $info['gallery'][0]['full'];
+        echo $product['gallery'][0]['full'];
     ?>
          <meta property="og:type"                   content="og:product" />
     <meta property="og:title"                  content="" />
