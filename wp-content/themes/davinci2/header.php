@@ -33,19 +33,11 @@
     global $ADSTM;
 
     $product = $ADSTM[ 'product' ];
-    $review  = $ADSTM[ 'review' ];
-    $info    = $ADSTM[ 'info' ];
-echo the_title();
-echo get_permalink();
-
-
-
-
         ?>
          <meta property="og:type"                   content="og:product" />
-    <meta property="og:title"                  content="" />
+    <meta property="og:title"                  content="<?php echo the_title(); ?>" />
     <meta property="og:image"                  content="<?php   echo $product['gallery'][0]['full']; ?>" />
-    <meta property="og:url"                    content="" />
+    <meta property="og:url"                    content="<?php echo get_permalink(); ?>" />
      <meta property="product:price:amount"      content="<?php echo $product['_price']; ?>"/>
     <meta property="product:price:currency"    content="PKR"/>
 
