@@ -35,7 +35,7 @@
     $product = $ADSTM[ 'product' ];
     $review  = $ADSTM[ 'review' ];
     $info    = $ADSTM[ 'info' ];
-    print_r($product['gallery']);
+        print_r($product['gallery'][0]);
         echo $product['_price'];
         echo $info['gallery'][0]['full'];
     ?>
