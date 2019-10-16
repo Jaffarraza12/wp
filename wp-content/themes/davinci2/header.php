@@ -35,6 +35,7 @@
     $product = $ADSTM[ 'product' ];
     $review  = $ADSTM[ 'review' ];
     $info    = $ADSTM[ 'info' ];
+    print_r($product);
         echo $info['gallery'][0]['full'];
     ?>
          <meta property="og:type"                   content="og:product" />
