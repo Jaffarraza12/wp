@@ -35,14 +35,16 @@
     $product = $ADSTM[ 'product' ];
     $review  = $ADSTM[ 'review' ];
     $info    = $ADSTM[ 'info' ];
+echo the_title();
+echo get_permalink();
 
 
 
-    ?>
+
+        ?>
          <meta property="og:type"                   content="og:product" />
     <meta property="og:title"                  content="" />
     <meta property="og:image"                  content="<?php   echo $product['gallery'][0]['full']; ?>" />
-    <meta property="og:description"            content="Friend Smash Coins to purchase upgrades and items!" />
     <meta property="og:url"                    content="" />
      <meta property="product:price:amount"      content="<?php echo $product['_price']; ?>"/>
     <meta property="product:price:currency"    content="PKR"/>
