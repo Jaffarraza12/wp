@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96965ba8-1084-4937-801f-16cee4640496" name="Default" comment="" />
+    <list default="true" id="96965ba8-1084-4937-801f-16cee4640496" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/davinci2/adstm/customization/defaults.php" afterPath="$PROJECT_DIR$/wp-content/themes/davinci2/adstm/customization/defaults.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/davinci2/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/davinci2/header.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,16 +16,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1454" lean-forward="false" selection-start-line="8" selection-start-column="1454" selection-end-line="8" selection-end-column="1454" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/home.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -35,39 +29,9 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding>
-                <marker date="1571145998255" expanded="true" signature="2008:2140" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="2038:2140" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="2073:2140" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="2108:2140" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="2465:2557" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="2603:2811" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="2639:2811" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="2673:2811" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="2721:2811" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="2767:2811" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="2902:2951" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="3926:4082" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="6158:6269" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="6854:6969" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="6911:6969" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="7147:7238" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="7194:7238" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="7655:7701" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="7903:8051" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="8734:9165" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="8770:9165" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="8808:9165" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="8856:9165" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="8924:9165" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="8975:9070" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="9283:9611" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="9357:9611" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="9419:9611" ph="..." />
-                <marker date="1571145998255" expanded="true" signature="9522:9611" ph="..." />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,7 +39,7 @@
       <file leaf-file-name="link-template.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-includes/link-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
+            <state relative-caret-position="63512">
               <caret line="3741" column="8" lean-forward="false" selection-start-line="3741" selection-start-column="4" selection-end-line="3741" selection-end-column="8" />
               <folding>
                 <marker date="1570442856165" expanded="true" signature="54947:54995" ph="SELECT p.ID ${$wpdb-&gt;posts}" />
@@ -88,9 +52,22 @@
       <file leaf-file-name="single-product.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/single-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="48" column="61" lean-forward="false" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="72" />
+            <state relative-caret-position="748">
+              <caret line="44" column="18" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="defaults.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/adstm/customization/defaults.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="55" column="88" lean-forward="false" selection-start-line="55" selection-start-column="88" selection-end-line="55" selection-end-column="88" />
+              <folding>
+                <marker date="1571300636043" expanded="true" signature="16949:17029" ph="..." />
+                <marker date="1571300636043" expanded="true" signature="17139:17219" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,7 +75,7 @@
       <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product/single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
+            <state relative-caret-position="221">
               <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
               <folding />
             </state>
@@ -118,7 +95,7 @@
       <file leaf-file-name="plugin.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="6817">
               <caret line="421" column="10" lean-forward="false" selection-start-line="421" selection-start-column="4" selection-end-line="421" selection-end-column="10" />
               <folding />
             </state>
@@ -155,36 +132,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>TO</find>
-      <find>TOP</find>
-      <find>TOP S</find>
-      <find>TOP SE</find>
-      <find>TOP SEL</find>
-      <find>TOP SELL</find>
-      <find>TOP SELLI</find>
-      <find>TOP SELLIN</find>
-      <find>TOP SELLING</find>
-      <find>post_type</find>
-      <find>Client</find>
-      <find>\$terms \= wp_get_post_terms\( \$post\-\&gt;ID\, \'product_cat\' \)\;\n</find>
-      <find>adstm_start_loop_bestdials_product</find>
-      <find>c</find>
-      <find>ca</find>
-      <find>cart</find>
-      <find>car</find>
-      <find>caty</find>
-      <find>cate</find>
-      <find>categ</find>
-      <find>catego</find>
-      <find>categor</find>
-      <find>category</find>
-      <find>cat</find>
-      <find>adstm_start_loop_topselling_product</find>
       <find>tp_favicon</find>
       <find>adstm_start_loop_category_product</find>
       <find>wrap-setter</find>
       <find>adstm_init_product</find>
       <find>&lt;link rel=&quot;canonical&quot;</find>
+      <find>the_title()</find>
+      <find>breadcrumbs</find>
+      <find>the_title()</find>
+      <find>th(111) 111 11 11e_title()</find>
+      <find>(111) 111 11 11</find>
+      <find>(111) 111 11 1</find>
+      <find>(111) 111 11</find>
+      <find>(111) 111 11</find>
+      <find>(111)</find>
+      <find>(111)</find>
+      <find>(111) 1</find>
+      <find>(111) 11</find>
+      <find>(111) 111</find>
+      <find>(111) 111</find>
+      <find>(111) 111 1</find>
+      <find>Got a question? Call us!</find>
+      <find>Got a question? Call us</find>
+      <find>Got a question? Call u</find>
+      <find>Got a question? Call</find>
+      <find>Got a question? Cal</find>
+      <find>Got a question? Ca</find>
+      <find>Got a question? C</find>
+      <find>Got a question?</find>
+      <find>Got a question?</find>
+      <find>wrap-meta</find>
     </findStrings>
     <dirStrings>
       <dir>E:\wp\wp-content\themes\davinci2\template</dir>
@@ -193,47 +170,44 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
+      <command text="git add wp-content/themes/davinci2/header.php " />
+      <command text="git commit -m &quot;Header for product&quot;" />
       <command text="git push" />
-      <command text="git add ." />
-      <command text="git commit -m &quot;Module Update.&quot;" />
+      <command text="git add wp-content/themes/davinci2/header.php " />
+      <command text="git commit -m &quot;Header for product&quot;" />
       <command text="git push" />
-      <command text="git add ." />
-      <command text="git commit -m &quot;Module Update.&quot;" />
+      <command text="git add wp-content/themes/davinci2/header.php " />
+      <command text="git commit -m &quot;Header for product&quot;" />
       <command text="git push" />
-      <command text="git add ." />
-      <command text="git commit -m &quot;Module Update.&quot;" />
+      <command text="git add wp-content/themes/davinci2/header.php " />
+      <command text="git commit -m &quot;Header for product&quot;" />
       <command text="git push" />
-      <command text="git add ." />
-      <command text="git commit -m &quot;Module Update.&quot;" />
+      <command text="git add wp-content/themes/davinci2/header.php " />
+      <command text="git commit -m &quot;Header for product&quot;" />
       <command text="git push" />
-      <command text="git add ." />
-      <command text="git commit -m &quot;Module Update.&quot;" />
+      <command text="git add wp-content/themes/davinci2/header.php " />
+      <command text="git commit -m &quot;Header for product&quot;" />
       <command text="git push" />
-      <command text="git add ." />
-      <command text="git commit -m &quot;Module Update.&quot;" />
+      <command text="git add wp-content/themes/davinci2/header.php " />
+      <command text="git commit -m &quot;Header for product&quot;" />
       <command text="git push" />
-      <command text="git add ." />
-      <command text="git commit -m &quot;Module Update.&quot;" />
-      <command text="git push" />
-      <command text="git add ." />
-      <command text="git commit -m &quot;Module Update.&quot;" />
+      <command text="git status" />
+      <command text="git add  wp-content/themes/davinci2/adstm/customization/defaults.php" />
+      <command text="git commit -m &quot;Header for product&quot;" />
       <command text="git push" />
     </commandsHistory>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/adstm/customization/cz_styles.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/davinci2/adstm/customization/defaults.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product-loop/loop.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/davinci2/adstm/customization/defaults.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/davinci2/header.php" />
       </list>
     </option>
@@ -266,81 +240,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="davinci2" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/carve" />
+    <property name="last_opened_file_path" value="C:/har" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -450,22 +357,24 @@
       <workItem from="1570701578501" duration="5190000" />
       <workItem from="1571039559335" duration="4533000" />
       <workItem from="1571132140224" duration="1268000" />
-      <workItem from="1571143431409" duration="2567000" />
+      <workItem from="1571143431409" duration="2619000" />
+      <workItem from="1571208332469" duration="51000" />
+      <workItem from="1571212341754" duration="3103000" />
+      <workItem from="1571300295752" duration="952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22856000" />
+    <option name="totallyTimeSpent" value="27014000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25920245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25920245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5030675" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3323442" sideWeight="0.4969325" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -476,29 +385,11 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3323442" sideWeight="0.4969325" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5030675" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3264095" sideWeight="0.4969325" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25920245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -520,28 +411,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-admin/includes/noop.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="9" lean-forward="false" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2040">
           <caret line="120" column="66" lean-forward="false" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="66" />
-          <folding>
-            <marker date="1571133408908" expanded="true" signature="2093:2570" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2093:2613" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2181:2523" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2181:2570" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2183:2523" ph="..." />
-            <marker date="1571133408908" expanded="false" signature="2266:2274" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2359:2472" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="3278:3502" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -557,10 +430,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3145">
           <caret line="185" column="54" lean-forward="true" selection-start-line="185" selection-start-column="54" selection-end-line="185" selection-end-column="54" />
-          <folding>
-            <marker date="1571132474401" expanded="true" signature="16912:16992" ph="..." />
-            <marker date="1571132474401" expanded="true" signature="17102:17182" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -568,7 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="1454" lean-forward="false" selection-start-line="8" selection-start-column="1454" selection-end-line="8" selection-end-column="1454" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -605,16 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding>
-            <marker date="1571133408908" expanded="true" signature="2093:2570" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2093:2613" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2181:2523" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2181:2570" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2183:2523" ph="..." />
-            <marker date="1571133408908" expanded="false" signature="2266:2274" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2359:2472" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="3278:3502" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -644,7 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="1454" lean-forward="false" selection-start-line="8" selection-start-column="1454" selection-end-line="8" selection-end-column="1454" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,10 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3485">
           <caret line="209" column="48" lean-forward="false" selection-start-line="209" selection-start-column="44" selection-end-line="209" selection-end-column="48" />
-          <folding>
-            <marker date="1571132474401" expanded="true" signature="16912:16992" ph="..." />
-            <marker date="1571132474401" expanded="true" signature="17102:17182" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -693,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="1454" lean-forward="false" selection-start-line="8" selection-start-column="1454" selection-end-line="8" selection-end-column="1454" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -709,10 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3485">
           <caret line="209" column="48" lean-forward="false" selection-start-line="209" selection-start-column="44" selection-end-line="209" selection-end-column="48" />
-          <folding>
-            <marker date="1571132474401" expanded="true" signature="16912:16992" ph="..." />
-            <marker date="1571132474401" expanded="true" signature="17102:17182" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -742,10 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-          <folding>
-            <marker date="1571132474401" expanded="true" signature="16912:16992" ph="..." />
-            <marker date="1571132474401" expanded="true" signature="17102:17182" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -835,22 +679,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/adstm/customization/defaults.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-          <folding>
-            <marker date="1571132474401" expanded="true" signature="16912:16992" ph="..." />
-            <marker date="1571132474401" expanded="true" signature="17102:17182" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="1454" lean-forward="false" selection-start-line="8" selection-start-column="1454" selection-end-line="8" selection-end-column="1454" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -888,13 +720,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1128">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/plugin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="6817">
           <caret line="421" column="10" lean-forward="false" selection-start-line="421" selection-start-column="4" selection-end-line="421" selection-end-column="10" />
           <folding />
         </state>
@@ -912,38 +743,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="108" column="16" lean-forward="false" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
-          <folding>
-            <marker date="1571133408908" expanded="true" signature="2093:2570" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2093:2613" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2181:2523" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2181:2570" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2183:2523" ph="..." />
-            <marker date="1571133408908" expanded="false" signature="2266:2274" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="2359:2472" ph="..." />
-            <marker date="1571133408908" expanded="true" signature="3278:3502" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/hooks/product/single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
+        <state relative-caret-position="221">
           <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/single-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="48" column="61" lean-forward="false" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/link-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
+        <state relative-caret-position="63512">
           <caret line="3741" column="8" lean-forward="false" selection-start-line="3741" selection-start-column="4" selection-end-line="3741" selection-end-column="8" />
           <folding>
             <marker date="1570442856165" expanded="true" signature="54947:54995" ph="SELECT p.ID ${$wpdb-&gt;posts}" />
@@ -952,41 +765,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce-admin/src/Loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-421">
+          <caret line="354" column="38" lean-forward="false" selection-start-line="354" selection-start-column="38" selection-end-line="354" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="18" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/adstm/customization/defaults.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="55" column="88" lean-forward="false" selection-start-line="55" selection-start-column="88" selection-end-line="55" selection-end-column="88" />
+          <folding>
+            <marker date="1571300636043" expanded="true" signature="16949:17029" ph="..." />
+            <marker date="1571300636043" expanded="true" signature="17139:17219" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/davinci2/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <marker date="1571145998255" expanded="true" signature="2008:2140" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="2038:2140" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="2073:2140" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="2108:2140" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="2465:2557" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="2603:2811" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="2639:2811" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="2673:2811" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="2721:2811" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="2767:2811" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="2902:2951" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="3926:4082" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="6158:6269" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="6854:6969" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="6911:6969" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="7147:7238" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="7194:7238" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="7655:7701" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="7903:8051" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="8734:9165" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="8770:9165" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="8808:9165" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="8856:9165" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="8924:9165" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="8975:9070" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="9283:9611" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="9357:9611" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="9419:9611" ph="..." />
-            <marker date="1571145998255" expanded="true" signature="9522:9611" ph="..." />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

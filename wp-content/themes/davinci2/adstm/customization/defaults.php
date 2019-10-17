@@ -53,7 +53,7 @@ return [
 	'tp_header_email'           => 'support@' . parse_url(ADSTM_HOME, PHP_URL_HOST),
 	'tp_text_top_header'        => __( 'Free Worldwide Shipping', 'dav2' ),
     'tp_text_header_call'       => __( 'Got a question? Call us!', 'dav2' ),
-    'tp_phone_header'           => __( '+923142587491', 'dav2' ),
+    'tp_phone_header'           => __( '<a href="tel:+92 314 2587491">+92 314 2587491   </a>', 'dav2' ),
 
 	'shipping_icon'             => '',
 	'tp_show_discount'          => true,

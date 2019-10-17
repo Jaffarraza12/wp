@@ -7,7 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
     <?php \ads\adsTmpl::meta(); ?>
 	<?php wp_head(); ?>
-	<style>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-150277418-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-150277418-1');
+    </script>
+
+    <style>
 		<?php echo cz('tp_style') ?>
 	</style>
 	<?php echo cz( 'tp_head' ); ?>
